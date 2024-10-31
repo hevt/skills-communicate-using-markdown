@@ -1,5 +1,11 @@
 # Good Octocats
 
+## Tasklist
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+
 ## Some Scheme code
 
 ``` scheme
